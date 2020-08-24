@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Natalia Winter :woman:</h1>
+<h2 align="center">Hello, I'm Natalia Winter :woman_technologist:</h1>
 
 <h3 align="center">A Software Development Engineer at Incoders Tecnologia</h3>
 
