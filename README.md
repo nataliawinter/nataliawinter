@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nataliawinter&color=green" alt="nataliawinter" />
+  
   <a href="https://www.linkedin.com/in/nataliajohannwinter/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
@@ -15,11 +16,8 @@
   </a>
 </p>
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&hide=html&layout=compact&count_private=true&theme=dracula" /></td>
-        <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=nataliawinter&count_private=true&theme=dracula" /></td>
-    </tr>  
-  </table>
-</center>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&layout=compact&langs_count=16&count_private=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliawinter&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" />
+</div>
