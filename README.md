@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Natalia Winter :woman_technologist:</h1>
 
-<h3 align="center">A Consultant Developer at ThoughtWorks</h3>
+<h3 align="center">A Consultant Developer at Thoughtworks</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nataliawinter&color=green" alt="nataliawinter" />
@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/-Instagram-f797a5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nataliajwinter)](https://www.instagram.com/nataliajwinter" alt="Instagram" />
   </a>
 </p>
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&layout=compact&langs_count=16&count_private=true&theme=dracula" />
