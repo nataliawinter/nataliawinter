@@ -17,6 +17,6 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&layout=compact&langs_count=16&count_private=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliawinter&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliawinter&layout=compact&langs_count=16&count_private=true&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nataliawinter&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" />
 </div>
