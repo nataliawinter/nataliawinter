@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm Natalia Winter :woman_technologist:</h1>
 
-<h3 align="center">A Senior Consultant Developer at Thoughtworks</h3>
+<h3 align="center">A Software Engineer at SAP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nataliawinter&color=green" alt="nataliawinter" />
